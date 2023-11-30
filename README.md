@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineering student, constantly exploring the realms of technology. Here, you'll find a mix of my projects, skills, and a little bit about me.
 
-![About Me Photo](https://media.licdn.com/dms/image/C4E03AQFMnEkuRpLVFQ/profile-displayphoto-shrink_800_800/0/1645032754289?e=1706745600&v=beta&t=cmmTMpjNxboXTUis2Vzbf-nCalNMit4XXQAy7QhX9Qw)
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/C4E03AQFMnEkuRpLVFQ/profile-displayphoto-shrink_800_800/0/1645032754289?e=1706745600&v=beta&t=cmmTMpjNxboXTUis2Vzbf-nCalNMit4XXQAy7QhX9Qw" alt="Profile Image" width="250"/>
+</div>
 
 ## 🚀 About Me
 
@@ -24,6 +26,6 @@ I'm always eager to expand my knowledge, and currently, I'm diving deeper into:
 
 ## 🤝 Let's Connect!
 
-Feel free to reach out for collaboration, discussions, or anything else! Connect with me on [LinkedIn](https://www.linkedin.com/in/techysanoj/) and check out my portfolio at [techysanoj.com](https://personal-portfolio-web-five.vercel.app/).
+Feel free to reach out for collaboration, discussions, or anything else! Connect with me on [LinkedIn](https://www.linkedin.com/in/techysanoj/) and check out my portfolio [here](https://personal-portfolio-web-five.vercel.app/).
 
 Happy coding! 🚀
