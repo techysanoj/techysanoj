@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sanoj Kumar
 
-Welcome to my GitHub profile! I'm a passionate software engineering student, constantly exploring the realms of technology. Here, you'll find a mix of my projects, skills, and a little bit about me.
+Welcome to my GitHub profile! [techysanoj] I'm a passionate software engineering student, constantly exploring the realms of technology. Here, you'll find a mix of my projects, skills, and a little bit about me.
 
 <div align="center">
   <img src="check-my-profile.png" alt="Profile Image"/>
