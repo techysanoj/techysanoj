@@ -5,7 +5,7 @@
 <div align="center">
   
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineering;Machine+Learning+Enthusiast;Competitive+Programmer;Front-end+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineer;Machine+Learning+Enthusiast;Competitive+Programmer;Front-end+Web+Developer" alt="Typing SVG" />
   
   <div>
     <a href="https://github.com/techysanoj">
