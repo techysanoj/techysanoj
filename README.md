@@ -79,16 +79,6 @@ I'm always eager to expand my knowledge, and currently, I'm diving deeper into:
   
 </div>
 
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/techysanoj/GullyStats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=techysanoj&repo=ToDoLiSt&theme=tokyonight&hide_border=true" alt="ToDo List Project"/>
-  </a>
-  <a href="https://github.com/techysanoj/skribble-clone">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=techysanoj&repo=Password-Generator&theme=tokyonight&hide_border=true" alt="Password Generator"/>
-  </a>
-</div>
 
 ## 📈 Contribution Graph
 
@@ -101,17 +91,11 @@ I'm always eager to expand my knowledge, and currently, I'm diving deeper into:
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://www.linkedin.com/in/techysanoj/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://personal-portfolio-web-five.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
