@@ -5,14 +5,11 @@
 <div align="center">
   
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineering+Student;Machine+Learning+Enthusiast;Competitive+Programmer;Front-end+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineering;Machine+Learning+Enthusiast;Competitive+Programmer;Front-end+Web+Developer" alt="Typing SVG" />
   
   <div>
     <a href="https://github.com/techysanoj">
       <img src="https://img.shields.io/github/followers/techysanoj?label=Followers&style=social" alt="GitHub Followers" />
-    </a>
-    <a href="https://github.com/techysanoj?tab=repositories">
-      <img src="https://badges.pufler.dev/repos/techysanoj" alt="Repos" />
     </a>
     <a href="https://www.linkedin.com/in/techysanoj/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
@@ -55,12 +52,14 @@ I'm a dedicated software engineering student passionate about creating innovativ
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techysanoj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techysanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=techysanoj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=techysanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=techysanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=techysanoj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ## 📚 Currently Learning
@@ -83,11 +82,11 @@ I'm always eager to expand my knowledge, and currently, I'm diving deeper into:
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="[https://github.com/techysanoj/project1](https://github.com/techysanoj/skribble-clone)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techysanoj&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1"/>
+  <a href="https://github.com/techysanoj/ToDoLiSt">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=techysanoj&repo=ToDoLiSt&theme=tokyonight&hide_border=true" alt="ToDo List Project"/>
   </a>
-  <a href="[https://github.com/techysanoj/project2](https://github.com/techysanoj/personal-portfolio-web)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techysanoj&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2"/>
+  <a href="https://github.com/techysanoj/Password-Generator">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=techysanoj&repo=Password-Generator&theme=tokyonight&hide_border=true" alt="Password Generator"/>
   </a>
 </div>
 
@@ -95,18 +94,24 @@ I'm always eager to expand my knowledge, and currently, I'm diving deeper into:
 
 <div align="center">
   
-  ![Sanoj's Activity Graph](https://activity-graph.herokuapp.com/graph?username=techysanoj&theme=tokyo-night&hide_border=true)
+  [![Sanoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techysanoj&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
 ## 📫 Connect With Me
 
 <div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/techysanoj/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://personal-portfolio-web-five.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
@@ -122,6 +127,4 @@ I'm always eager to expand my knowledge, and currently, I'm diving deeper into:
   <img src="https://komarev.com/ghpvc/?username=techysanoj&color=blueviolet&style=flat-square" alt="Profile Views"/>
   
   <h4>Thanks for visiting my profile! 😊</h4>
-  
-  ![Snake animation](https://github.com/techysanoj/techysanoj/blob/output/github-contribution-grid-snake.svg)
 </div>
