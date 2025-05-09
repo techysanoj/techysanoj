@@ -82,10 +82,10 @@ I'm always eager to expand my knowledge, and currently, I'm diving deeper into:
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/techysanoj/ToDoLiSt">
+  <a href="https://github.com/techysanoj/GullyStats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=techysanoj&repo=ToDoLiSt&theme=tokyonight&hide_border=true" alt="ToDo List Project"/>
   </a>
-  <a href="https://github.com/techysanoj/Password-Generator">
+  <a href="https://github.com/techysanoj/skribble-clone">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=techysanoj&repo=Password-Generator&theme=tokyonight&hide_border=true" alt="Password Generator"/>
   </a>
 </div>
