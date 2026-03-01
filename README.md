@@ -1,5 +1,7 @@
 # Hi there! I'm Sanoj Kumar 👋
 
+<img src="check-my-profile.png" alt="Sanoj's Profile Image" width="auto" style="border-radius:10px;margin-bottom:20px;"/>
+
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&random=false&width=700&height=100&lines=Conversational+AI+Engineer;Voice+AI+Pipeline+Builder;LLM+Developer;Full-Stack+Web+Developer" alt="Typing SVG" />
@@ -64,11 +66,18 @@ I'm a **Conversational AI Engineer** at **Omli Kids**, building intelligent voic
 
 ## 🚢 Featured Projects
 
-### 🎨 Scribbleclone — [AVISHKAARAM](https://github.com/AVISHKAARAM)
+### 🎨 [Skribblay.you](https://github.com/techysanoj/skribble-clone) — Skribbl.io clone
 
-A real-time multiplayer drawing & guessing game, Skribbl.io-style — built from scratch.
+![Stars](https://img.shields.io/github/stars/techysanoj/skribble-clone?style=flat&logo=github&color=yellow)
+![Forks](https://img.shields.io/github/forks/techysanoj/skribble-clone?style=flat&logo=github&color=blue)
+![Language](https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20Socket.IO-61DAFB?style=flat)
 
-> Full-stack multiplayer experience with real-time WebSocket game logic, rooms, and scoring.
+A real-time multiplayer drawing & guessing game inspired by Skribbl.io — built from scratch with a full custom backend.
+
+- 🎮 Real-time gameplay via **WebSockets** (Socket.IO)
+- 🏠 Customizable game rooms with multiple word pack options
+- 💬 In-game chat, player scoring & leaderboard
+- ⚡ React frontend + Node.js backend, MIT licensed
 
 ---
 
@@ -85,8 +94,8 @@ A fine-tuned **RoBERTa-based extractive QA model** for Hindi-English, trained on
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=techysanoj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=techysanoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=techysanoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techysanoj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="160"/>
 </div>
 
 <div align="center">
@@ -99,7 +108,7 @@ A fine-tuned **RoBERTa-based extractive QA model** for Hindi-English, trained on
 
 <div align="center">
 
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=techysanoj&theme=nord&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=techysanoj&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
